@@ -46,7 +46,7 @@ vehicle_maintenance_assistant/
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/yourname/vehicle-maintenance-assistant.git
+git clone https://github.com/Simeon-wansi/Vehicle_maintenance_assistant.git
 cd vehicle-maintenance-assistant
 ```
 
